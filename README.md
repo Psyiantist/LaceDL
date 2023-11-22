@@ -22,7 +22,7 @@ To run Lace on your system, ensure you have the following:
 
 ## Getting Started
 
-1. Clone or download the Lace repository to your local machine.
+1. Clone or download the **"Lace Setup.exe"** to your local machine.
 
 2. Open the project in Visual Studio 2022.
 
