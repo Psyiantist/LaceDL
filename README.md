@@ -18,19 +18,15 @@ To run Lace on your system, ensure you have the following:
 
 - **.NET Framework:** Lace requires the .NET Framework. If it's not already installed on your machine, you can download it from [Microsoft's official site](https://dotnet.microsoft.com/download/dotnet-framework).
 
-- **Visual Studio 2022:** Lace is developed using Visual Studio 2022. Make sure you have this IDE installed on your system to explore, modify, or build upon the application.
-
 ## Getting Started
 
 1. Clone or download the **"Lace Setup.exe"** to your local machine.
 
-2. Open the project in Visual Studio 2022.
+2. Ensure that you have a working internet connection.
 
-3. Ensure that you have a working internet connection.
+3. Run the application.
 
-4. Build and run the application.
-
-5. Explore the customizable UI, engage with language models, and enjoy the conversation history feature.
+4. Explore the customizable UI, engage with language models, and enjoy the conversation history feature.
 
 ## Contribution
 
