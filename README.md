@@ -15,13 +15,13 @@
 
 ## Requirements
 
-To run Lace on your system, ensure you have the following:
+To run Lace on your **Windows**, ensure you have the following:
 
 - **.NET Framework:** Lace requires the .NET Framework. If it's not already installed on your machine, you can download it from [Microsoft's official site](https://dotnet.microsoft.com/download/dotnet-framework).
 
 ## Getting Started
 
-1. Clone or download the **"Lace Setup.exe"** to your local machine.
+1. Download the **"Lace Setup.exe"**.
 
 2. Ensure that you have a working internet connection.
 
