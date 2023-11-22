@@ -1,3 +1,4 @@
+![Photo header](Loading.jpg)
 # Lace App
 
 **Lace** is an application developed by **Psyiantist** that utilizes multiple language models to process text prompts. It's similar to ChatGPT but offers a unique experience with its variety of language models. The app is built using Visual Studio 2022 with VB.Net, specifically designed as a Windows Forms application.
